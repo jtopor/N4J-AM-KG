@@ -1,12 +1,12 @@
 ,Artist,Style
-0,Adrian Belew,Album Rock
-1,Adrian Belew,Art Rock
-2,Adrian Belew,Experimental
-3,Adrian Belew,Guitar Virtuoso
-4,Adrian Belew,Jazz-Rock
-5,Adrian Belew,Alternative/Indie Rock
-6,Adrian Belew,Experimental Rock
-7,Adrian Belew,Contemporary Pop/Rock
+0,'Adrian Belew',Album Rock
+1,'Adrian Belew',Art Rock
+2,'Adrian Belew',Experimental
+3,'Adrian Belew',Guitar Virtuoso
+4,'Adrian Belew',Jazz-Rock
+5,'Adrian Belew',Alternative/Indie Rock
+6,'Adrian Belew',Experimental Rock
+7,'Adrian Belew',Contemporary Pop/Rock
 8,King Crimson,Art Rock
 9,King Crimson,Prog-Rock
 10,King Crimson,Album Rock
@@ -19,516 +19,545 @@
 17,David Bowie,Proto-Punk
 18,David Bowie,Blue-Eyed Soul
 19,David Bowie,Dance-Rock
-20,Talking Heads,Alternative/Indie Rock
-21,Talking Heads,American Punk
-22,Talking Heads,College Rock
-23,Talking Heads,New Wave
-24,Talking Heads,New York Punk
-25,Talking Heads,Post-Punk
-26,Talking Heads,Dance-Rock
-27,Talking Heads,Punk/New Wave
-28,Talking Heads,Album Rock
-29,Talking Heads,Alternative Pop/Rock
-30,Party Tyme Karaoke,Contemporary Pop/Rock
-31,Party Tyme Karaoke,Dance-Pop
-32,Gizmodrome,Art Rock
-33,Gizmodrome,Contemporary Pop/Rock
-34,Gizmodrome,Experimental
-35,Stick Men,?
-36,Mariah Carey,Adult Contemporary
-37,Mariah Carey,Adult Contemporary R&B
-38,Mariah Carey,Dance-Pop
-39,Mariah Carey,Pop
-40,Garland Jeffreys,Rock & Roll
-41,Garland Jeffreys,Singer/Songwriter
-42,Levin Brothers / Pete Levin / Tony Levin,?
-43,Transatlantic,Hard Rock
-44,Transatlantic,Heavy Metal
-45,Transatlantic,Neo-Prog
-46,Transatlantic,Progressive Metal
-47,Transatlantic,Album Rock
-48,Médéric Collignon / Mederic Collignon / Le Jus De Bocse,?
-49,Paul Simon,Adult Contemporary
-50,Paul Simon,Contemporary Pop/Rock
-51,Paul Simon,Folk-Rock
-52,Paul Simon,Singer/Songwriter
-53,Paul Simon,Soft Rock
-54,Paul Simon,Worldbeat
-55,Paul Simon,Album Rock
-56,Paul Simon,AM Pop
-57,Robert Palmer,Contemporary Pop/Rock
-58,Robert Palmer,Adult Contemporary
-59,Robert Palmer,Blue-Eyed Soul
-60,Robert Palmer,Disco
-61,Robert Palmer,Soul
-62,Robert Palmer,Dance-Rock
-63,Robert Palmer,Soft Rock
-64,Robert Palmer,Album Rock
-65,Jars of Clay,Adult Alternative Pop/Rock
-66,Jars of Clay,Alternative CCM
-67,Jars of Clay,CCM
-68,Jars of Clay,Contemporary Christian
-69,Jars of Clay,Gospel
-70,Jars of Clay,Alternative/Indie Rock
-71,Nine Inch Nails,Alternative Metal
-72,Nine Inch Nails,Alternative/Indie Rock
-73,Nine Inch Nails,Industrial
-74,Nine Inch Nails,Industrial Metal
-75,Nine Inch Nails,Alternative Dance
-76,Nine Inch Nails,Alternative Pop/Rock
-77,Robert Fripp / Travis & Fripp / Theo Travis,Art Rock
-78,Robert Fripp / Travis & Fripp / Theo Travis,Experimental
-79,Robert Fripp / Travis & Fripp / Theo Travis,Prog-Rock
-80,Robert Fripp / Travis & Fripp / Theo Travis,Alternative/Indie Rock
-81,Robert Fripp / Travis & Fripp / Theo Travis,Experimental Rock
-82,Robert Fripp / Travis & Fripp / Theo Travis,Post-Rock
-83,Robert Fripp / Travis & Fripp / Theo Travis,Experimental Electronic
-84,Ned Evett,?
-85,Kurt Elling,Post-Bop
-86,Kurt Elling,Vocal Jazz
-87,Kurt Elling,Contemporary Jazz Vocals
-88,Kurt Elling,Straight-Ahead Jazz
-89,Kurt Elling,Vocalese
-90,Caifanes,Rock en Español
-91,Caifanes,Latin Pop
-92,Frank Zappa,Art Rock
-93,Frank Zappa,Experimental Rock
-94,Frank Zappa,Jazz-Rock
-95,Frank Zappa,Prog-Rock
-96,Frank Zappa,Album Rock
-97,Frank Zappa,Avant-Prog
-98,Frank Zappa,Comedy Rock
-99,Frank Zappa,Progressive Jazz
-100,Frank Zappa,Hard Rock
-101,Frank Zappa,Modern Composition
-102,Herbie Hancock,Fusion
-103,Herbie Hancock,Hard Bop
-104,Herbie Hancock,Jazz-Funk
-105,Herbie Hancock,Modal Music
-106,Herbie Hancock,Post-Bop
-107,Herbie Hancock,Piano Jazz
-108,Herbie Hancock,Funk
-109,Herbie Hancock,Jazz Instrument
-110,Herbie Hancock,Electro
-111,Trent Reznor / Atticus Ross / Trent Reznor & Atticus Ross,Alternative Metal
-112,Trent Reznor / Atticus Ross / Trent Reznor & Atticus Ross,Industrial
-113,Trent Reznor / Atticus Ross / Trent Reznor & Atticus Ross,Industrial Metal
-114,Trent Reznor / Atticus Ross / Trent Reznor & Atticus Ross,Alternative Pop/Rock
-115,Trent Reznor / Atticus Ross / Trent Reznor & Atticus Ross,Experimental Ambient
-116,Trent Reznor / Atticus Ross / Trent Reznor & Atticus Ross,Soundtracks
-117,Tom Tom Club,Alternative Pop/Rock
-118,Tom Tom Club,Alternative/Indie Rock
-119,Tom Tom Club,Contemporary Pop/Rock
-120,Tom Tom Club,Dance-Rock
-121,Tom Tom Club,College Rock
-122,Tom Tom Club,New Wave
-123,Tom Tom Club,Punk/New Wave
-124,The New Czars,Alternative Pop/Rock
-125,The New Czars,Alternative/Indie Rock
-126,The New Czars,Hard Rock
-127,Mondo Marcio,Hardcore Rap
-128,Adrian Belew / Kevin Max,Album Rock
-129,Adrian Belew / Kevin Max,Art Rock
-130,Adrian Belew / Kevin Max,Experimental
-131,Adrian Belew / Kevin Max,Guitar Virtuoso
-132,Adrian Belew / Kevin Max,Jazz-Rock
-133,Adrian Belew / Kevin Max,Alternative/Indie Rock
-134,Adrian Belew / Kevin Max,Experimental Rock
-135,Adrian Belew / Kevin Max,Contemporary Pop/Rock
-136,The Crimson Jazz Trio,Modern Creative
-137,The Crimson Jazz Trio,Progressive Jazz
-138,The Crimson Jazz Trio,Art Rock
-139,The Crimson Jazz Trio,Improvisation
-140,The Crimson Jazz Trio,Prog-Rock
-141,The Crimson Jazz Trio,Fusion
-142,Sugar Beats,Contemporary Pop/Rock
-143,Sugar Beats,Sing-Alongs
-144,Mike Zirkel,?
-145,Wave Mechanics Union,?
-146,Andrew Gorczyca,?
-147,Asia,Album Rock
-148,Asia,Art Rock
-149,Asia,Prog-Rock
-150,Asia,Arena Rock
-151,Cyndi Lauper,Contemporary Pop/Rock
-152,Cyndi Lauper,New Wave
-153,Cyndi Lauper,Punk/New Wave
-154,Caifanes / De Caifanes a Jaguares / Jaguares,Rock en Español
-155,Caifanes / De Caifanes a Jaguares / Jaguares,Latin Pop
-156,Danny Morgan,?
-157,The Bears,Alternative Pop/Rock
-158,The Bears,Alternative/Indie Rock
-159,The Bears,Power Pop
-160,Sara Hickman,Alt-Country
-161,Sara Hickman,Alternative/Indie Rock
-162,Sara Hickman,Contemporary Folk
-163,Sara Hickman,Country-Folk
-164,Sara Hickman,Folk-Pop
-165,Between the Buried and Me,Heavy Metal
-166,Between the Buried and Me,Metalcore
-167,Between the Buried and Me,Alternative/Indie Rock
-168,Between the Buried and Me,Death Metal
-169,Between the Buried and Me,Progressive Metal
-170,The 4-Squares,Hardcore Punk
-171,The 4-Squares,Punk/New Wave
-172,Tony Levin,Avant-Garde Jazz
-173,Tony Levin,Prog-Rock
-174,Tony Levin,Free Jazz
-175,ProjeKct Two,?
-176,Larry Levan,Club/Dance
-177,Larry Levan,Disco
-178,Larry Levan,Garage
-179,Larry Levan,House
-180,Larry Levan,Post-Disco
-181,Joe Cocker,Blues-Rock
-182,Joe Cocker,Contemporary Pop/Rock
-183,Joe Cocker,Soft Rock
-184,Joe Cocker,Adult Contemporary
-185,Joe Cocker,AM Pop
-186,Jean-Michel Jarre,Progressive Electronic
-187,Jean-Michel Jarre,Adult Alternative
-188,Jean-Michel Jarre,Experimental Electronic
-189,Jean-Michel Jarre,Mixed Media
-190,Jean-Michel Jarre,Club/Dance
-191,Jean-Michel Jarre,Ambient
-192,Jean-Michel Jarre,Trance
-193,Ol' Dirty Bastard,East Coast Rap
-194,Ol' Dirty Bastard,Hardcore Rap
-195,Man on Fire,Prog-Rock
-196,Man on Fire,Contemporary Pop/Rock
-197,Fission Trip,Prog-Rock
-198,Porcupine Tree,Art Rock
-199,Porcupine Tree,Experimental
-200,Porcupine Tree,Experimental Rock
-201,Porcupine Tree,Neo-Prog
-202,Porcupine Tree,Alternative/Indie Rock
-203,Porcupine Tree,Ambient
-204,Porcupine Tree,Post-Rock
-205,Jaguares,Rock en Español
-206,Jaguares,Alternative Pop/Rock
-207,Jaguares,Alternative/Indie Rock
-208,Jaguares,Latin Pop
-209,Saul Zonana,Alternative/Indie Rock
-210,Saul Zonana,Indie Rock
-211,Patti Smith,New York Punk
-212,Patti Smith,Punk/New Wave
-213,Patti Smith,Album Rock
-214,Patti Smith,Hard Rock
-215,Patti Smith,Alternative Singer/Songwriter
-216,Culture,Political Reggae
-217,Culture,Roots Reggae
-218,Vitamin String Quartet,Chamber Music
-219,Vitamin String Quartet,Classical Crossover
-220,Training for Utopia,Alternative CCM
-221,Training for Utopia,Alternative Pop/Rock
-222,Training for Utopia,Alternative/Indie Rock
-223,Training for Utopia,Contemporary Christian
-224,Training for Utopia,Heavy Metal
-225,Frank Jordan,Blues Gospel
-226,Frank Jordan,Pre-War Country Blues
-227,Frank Jordan,Adult Alternative Pop/Rock
-228,Frank Jordan,Alternative/Indie Rock
-229,Frank Jordan,Emo
-230,Frank Jordan,Singer/Songwriter
-231,William Shatner,Celebrity
-232,William Shatner,Comedy
-233,William Shatner,Novelty
-234,William Shatner,Music Comedy
-235,William Shatner,Fantasy
-236,William Shatner,Spoken Word
-237,Rachel Z,Crossover Jazz
-238,Rachel Z,Post-Bop
-239,Nusound,Contemporary Instrumental
-240,Nusound,Relaxation
-241,The Honorary Title,Alternative/Indie Rock
-242,The Honorary Title,Indie Rock
-243,The Honorary Title,Alternative Pop/Rock
-244,Harmonica Shah,Modern Electric Blues
-245,Harmonica Shah,Electric Harmonica Blues
-246,Geoff Downes / John Wetton,Progressive Electronic
-247,Geoff Downes / John Wetton,Art Rock
-248,Geoff Downes / John Wetton,Prog-Rock
-249,Ryuichi Sakamoto,Experimental
-250,Ryuichi Sakamoto,Progressive Electronic
-251,Ryuichi Sakamoto,Original Score
-252,Ryuichi Sakamoto,International Fusion
-253,Ryuichi Sakamoto,Synth Pop
-254,Ryuichi Sakamoto,Experimental Ambient
-255,Ryuichi Sakamoto,Experimental Electro
-256,Ryuichi Sakamoto,Experimental Electronic
-257,Ryuichi Sakamoto,Glitch
-258,Townes Van Zandt,Americana
-259,Townes Van Zandt,Contemporary Folk
-260,Townes Van Zandt,Country-Rock
-261,Townes Van Zandt,Progressive Country
-262,Townes Van Zandt,Singer/Songwriter
-263,Pretty Mighty Mighty,Alternative Pop/Rock
-264,Pretty Mighty Mighty,Alternative/Indie Rock
-265,Reaching Forward,Alternative/Indie Rock
-266,Reaching Forward,Punk Revival
-267,Reaching Forward,Punk/New Wave
-268,Reaching Forward,Straight-Edge
-269,The X-ecutioners,Turntablism
-270,The X-ecutioners,Underground Rap
-271,Jamie deRoy,?
-272,Tori Amos,Adult Alternative Pop/Rock
-273,Tori Amos,Alternative/Indie Rock
-274,Tori Amos,Alternative Pop/Rock
-275,Tori Amos,Contemporary Singer/Songwriter
-276,Kevin Max,CCM
-277,Kevin Max,Contemporary Christian
-278,Kevin Max,Christian Rock
-279,Kevin Max,Gospel
-280,dc Talk,Alternative CCM
-281,dc Talk,Contemporary Christian
-282,dc Talk,CCM
-283,dc Talk,Gospel
-284,dc Talk,Adult Alternative Pop/Rock
-285,dc Talk,Alternative/Indie Rock
-286,dc Talk,Christian Rap
-287,Erick Sermon,East Coast Rap
-288,Erick Sermon,Hardcore Rap
-289,Les Claypool,Funk Metal
-290,Les Claypool,Heavy Metal
-291,Les Claypool,Alternative Pop/Rock
-292,Les Claypool,Alternative/Indie Rock
-293,Les Claypool,Bluegrass
-294,Les Claypool,Progressive Bluegrass
-295,JT Money,Southern Rap
-296,JT Money,Gangsta Rap
-297,JT Money,Dirty Rap
-298,Rick Altizer,Christian Rock
-299,Rick Altizer,Contemporary Christian
-300,Rick Altizer,CCM
-301,Tim Bowness,?
-302,Laurie Anderson,Experimental
-303,Laurie Anderson,Mixed Media
-304,Laurie Anderson,Alternative/Indie Rock
-305,Laurie Anderson,Experimental Rock
-306,Béla Fleck & the Flecktones,?
-307,California Guitar Trio,Instrumental Rock
-308,California Guitar Trio,New Acoustic
-309,California Guitar Trio,Avant-Prog
-310,California Guitar Trio,Prog-Rock
-311,California Guitar Trio,Modern Electric Blues
-312,R. Stevie Moore,Alternative/Indie Rock
-313,R. Stevie Moore,Experimental Rock
-314,R. Stevie Moore,Lo-Fi
-315,R. Stevie Moore,Obscuro
-316,R. Stevie Moore,Power Pop
-317,R. Stevie Moore,Indie Rock
-318,R. Stevie Moore,Neo-Psychedelia
-319,Freddy Gardner,British Dance Bands
-320,Freddy Gardner,Chamber Music
-321,Freddy Gardner,Dance Bands
-322,Freddy Gardner,Swing
-323,Freddy Gardner,Big Band
-324,Freddy Gardner,Dixieland
-325,The Countdown Singers,Contemporary Pop/Rock
-326,Discipline,Art Rock
-327,Discipline,Prog-Rock
-328,Nicola Sirkis,?
-329,Joan Armatrading,Folk-Pop
-330,Joan Armatrading,Singer/Songwriter
-331,Joan Armatrading,Adult Alternative Pop/Rock
-332,The Irresponsibles,?
-333,ProjeKct Four,?
-334,2Pac / Outlawz,Gangsta Rap
-335,2Pac / Outlawz,G-Funk
-336,2Pac / Outlawz,Hardcore Rap
-337,Mike Oldfield,Art Rock
-338,Mike Oldfield,Prog-Rock
-339,Mike Oldfield,Progressive Electronic
-340,Mike Oldfield,Classical Crossover
-341,Mike Oldfield,Neo-Classical
-342,Mike Oldfield,Avant-Garde Music
-343,Mike Oldfield,Experimental Electronic
-344,Artie Traum,Folk Jazz
-345,Artie Traum,Singer/Songwriter
-346,Joe Dolan,AM Pop
-347,Jerry Lee Lewis,Honky Tonk
-348,Jerry Lee Lewis,Rock & Roll
-349,Jerry Lee Lewis,Rockabilly
-350,Jerry Lee Lewis,Traditional Country
-351,Mack 10,Gangsta Rap
-352,Mack 10,West Coast Rap
-353,Mack 10,G-Funk
-354,DJ Clue?,East Coast Rap
-355,Monty Montgomery,?
-356,Rob Fetters,?
-357,Christopher Young,Original Score
-358,Christopher Young,Film Score
-359,Christopher Young,Soundtracks
-360,Christopher Young,Video Game Music
-361,Curd Duca,Contemporary Instrumental
-362,Curd Duca,Experimental Techno
-363,Curd Duca,IDM
-364,Curd Duca,Techno
-365,Curd Duca,Ambient Techno
-366,Curd Duca,Trip-Hop
-367,Ivano Fossati,Contemporary Pop/Rock
-368,Ivano Fossati,Italian Pop
-369,Michael Prophet,Dance-Pop
-370,Michael Prophet,Dancehall
-371,Rick Derringer,Blues-Rock
-372,Rick Derringer,Contemporary Pop/Rock
-373,Rick Derringer,Hard Rock
-374,Rick Derringer,Rock & Roll
-375,Alfonzo Hunter,Contemporary R&B
-376,Gutterball,Alternative Pop/Rock
-377,Gutterball,Alternative/Indie Rock
-378,Gutterball,Jangle Pop
-379,Vowel Movement,?
-380,Al Kooper,Rock & Roll
-381,Al Kooper,Blues-Rock
-382,Al Kooper,Singer/Songwriter
-383,Al Kooper,Psychedelic/Garage
-384,Al Kooper,Retro-Soul
-385,Al Kooper,Soul
-386,Al Kooper,American Trad Rock
-387,Al Kooper,Folk-Rock
-388,Al Kooper,Roots Rock
-389,Love Is Colder than Death,Alternative Pop/Rock
-390,Love Is Colder than Death,Alternative/Indie Rock
-391,The Elvis Brothers,Power Pop
-392,S.F.C.,Christian Rap
-393,S.F.C.,Contemporary Christian
-394,Gospel Gangstaz,Christian Rap
-395,Gospel Gangstaz,Contemporary Christian
-396,Gospel Gangstaz,Contemporary Gospel
-397,Gospel Gangstaz,Gospel
-398,WC and the Maad Circle,Hardcore Rap
-399,WC and the Maad Circle,West Coast Rap
-400,WC and the Maad Circle,Gangsta Rap
-401,Scarface,Gangsta Rap
-402,Scarface,Hardcore Rap
-403,Scarface,Southern Rap
-404,Santa Sabina,Alternative Pop/Rock
-405,Santa Sabina,Alternative/Indie Rock
-406,Santa Sabina,Rock en Español
-407,Santa Sabina,Alternative Latin
-408,Santa Sabina,Contemporary Pop/Rock
-409,Raisins,Alternative Pop/Rock
-410,Raisins,Alternative/Indie Rock
-411,Raisins,Contemporary Pop/Rock
-412,Stephen Bishop,Adult Contemporary
-413,Stephen Bishop,Soft Rock
-414,Stephen Bishop,Contemporary Pop/Rock
-415,Kindred Way,?
-416,Big Daddy Kane,East Coast Rap
-417,Big Daddy Kane,Golden Age
-418,Big Daddy Kane,Hardcore Rap
-419,Big Daddy Kane,Old-School Rap
-420,Big Daddy Kane,Pop-Rap
-421,Sister Carol,Dancehall
-422,Sister Carol,Ragga
-423,Forward,Dancehall
-424,Forward,Ragga
-425,Forward,Roots Reggae
-426,Smiley Lewis,New Orleans R&B
-427,Smiley Lewis,Rock & Roll
-428,Smiley Lewis,Early R&B
-429,Smiley Lewis,New Orleans Blues
-430,Smiley Lewis,Regional Blues
-431,Smiley Lewis,Piano Blues
-432,Anathema,Doom Metal
-433,Anathema,Goth Metal
-434,Anathema,Heavy Metal
-435,Anathema,Death Metal
-436,Zimbabwe Legit,Alternative Rap
-437,Force M.D.'s,Contemporary R&B
-438,Force M.D.'s,Quiet Storm
-439,Force M.D.'s,New Jack Swing
-440,Force M.D.'s,Adult Contemporary R&B
-441,Mac Band,Contemporary R&B
-442,Mac Band,New Jack Swing
-443,Chris Cuevas,Club/Dance
-444,Funkytown Pros,?
-445,HEAL,Hardcore Rap
-446,Andrew Dice Clay,Blue Humor
-447,Andrew Dice Clay,Sketch Comedy
-448,Andrew Dice Clay,Standup Comedy
-449,Andrew Dice Clay,Comedy
-450,Jerry Harrison,Alternative/Indie Rock
-451,Jerry Harrison,New Wave
-452,Jerry Harrison,Post-Punk
-453,Jerry Harrison,Punk/New Wave
-454,Iron Christ,Heavy Metal
-455,Iron Christ,Hard Rock
-456,Scruffy the Cat,Alternative/Indie Rock
-457,Scruffy the Cat,Roots Rock
-458,Scruffy the Cat,College Rock
-459,Max Q,Alternative Pop/Rock
-460,Max Q,Alternative/Indie Rock
-461,Jody Watley,Contemporary R&B
-462,Jody Watley,Dance-Pop
-463,Jody Watley,Club/Dance
-464,Jody Watley,House
-465,Jody Watley,Post-Disco
-466,The Cucumbers,Alternative Pop/Rock
-467,The Cucumbers,Alternative/Indie Rock
-468,The Cucumbers,Adult Alternative Pop/Rock
-469,Captain Lou Albano / NRBQ,?
-470,Pia Zadora,Big Band
-471,Pia Zadora,Traditional Pop
-472,Pia Zadora,Vocal Pop
-473,Pia Zadora,AM Pop
-474,Scott Merritt,?
-475,Whitesnake,Hard Rock
-476,Whitesnake,Heavy Metal
-477,Whitesnake,Hair Metal
-478,Whitesnake,Pop-Metal
-479,Whitesnake,Arena Rock
-480,Certain General,?
-481,Peter Wolf,Album Rock
-482,Peter Wolf,Contemporary Pop/Rock
-483,Peter Wolf,Rock & Roll
-484,Steve Hillage,Prog-Rock
-485,Steve Hillage,Space Rock
-486,Steve Hillage,Ambient
-487,Steve Hillage,Ambient Techno
-488,Steve Hillage,Canterbury Scene
-489,Steve Hillage,Alternative/Indie Rock
-490,Steve Hillage,Techno
-491,Ryuichi Sakamoto / Robin Scott,Experimental
-492,Ryuichi Sakamoto / Robin Scott,Progressive Electronic
-493,Ryuichi Sakamoto / Robin Scott,Original Score
-494,Ryuichi Sakamoto / Robin Scott,International Fusion
-495,Ryuichi Sakamoto / Robin Scott,Synth Pop
-496,Ryuichi Sakamoto / Robin Scott,Experimental Ambient
-497,Ryuichi Sakamoto / Robin Scott,Experimental Electro
-498,Ryuichi Sakamoto / Robin Scott,Experimental Electronic
-499,Ryuichi Sakamoto / Robin Scott,Glitch
-500,David Byrne,Alternative Pop/Rock
-501,David Byrne,Alternative/Indie Rock
-502,David Byrne,Experimental Rock
-503,David Byrne,Worldbeat
-504,David Byrne,Ambient
-505,David Byrne,Avant-Garde Music
-506,David Byrne,Experimental
-507,David Byrne,Adult Alternative Pop/Rock
-508,The Music Emporium,Psychedelic/Garage
-509,Bill Wolfer,Fusion
-510,Debbie Reynolds,Traditional Pop
-511,Debbie Reynolds,Vocal Pop
-512,Edensong,?
-513,UniKuE,?
-514,The Mastelottos,Progressive Alternative
-515,Raphaël Haroche / Raphaël,Adult Alternative Pop/Rock
-516,Raphaël Haroche / Raphaël,Alternative/Indie Rock
-517,Raphaël Haroche / Raphaël,French Pop
-518,Raphaël Haroche / Raphaël,French Rock
-519,The Crimson Projekct,?
-520,Troy Jones,?
-521,Nonch Harpin',?
-522,Tim Reynolds / TR3,Adult Alternative Pop/Rock
-523,Tim Reynolds / TR3,Alternative/Indie Rock
-524,Tim Reynolds / TR3,American Trad Rock
-525,Tim Reynolds / TR3,Jam Bands
-526,Tim Reynolds / TR3,Jazz Instrument
-527,Tim Reynolds / TR3,Piano Jazz
-528,Delta Saxophone Quartet,Minimalism
-529,Delta Saxophone Quartet,Modern Composition
-530,Delta Saxophone Quartet,Neo-Classical
-531,Delta Saxophone Quartet,Post-Minimalism
-532,Delta Saxophone Quartet,Chamber Music
+20,Adrian Belew,Album Rock
+21,Adrian Belew,Art Rock
+22,Adrian Belew,Experimental
+23,Adrian Belew,Guitar Virtuoso
+24,Adrian Belew,Jazz-Rock
+25,Adrian Belew,Alternative/Indie Rock
+26,Adrian Belew,Experimental Rock
+27,Adrian Belew,Contemporary Pop/Rock
+28,Talking Heads,Alternative/Indie Rock
+29,Talking Heads,American Punk
+30,Talking Heads,College Rock
+31,Talking Heads,New Wave
+32,Talking Heads,New York Punk
+33,Talking Heads,Post-Punk
+34,Talking Heads,Dance-Rock
+35,Talking Heads,Punk/New Wave
+36,Talking Heads,Album Rock
+37,Talking Heads,Alternative Pop/Rock
+38,Party Tyme Karaoke,Contemporary Pop/Rock
+39,Party Tyme Karaoke,Dance-Pop
+40,Rare Essence,Go-Go
+41,Rare Essence,Funk
+42,Gizmodrome,Art Rock
+43,Gizmodrome,Contemporary Pop/Rock
+44,Gizmodrome,Experimental
+45,Stick Men,?
+46,Mariah Carey,Adult Contemporary
+47,Mariah Carey,Adult Contemporary R&B
+48,Mariah Carey,Dance-Pop
+49,Mariah Carey,Pop
+50,Garland Jeffreys,Rock & Roll
+51,Garland Jeffreys,Singer/Songwriter
+52,Levin Brothers / Pete Levin / Tony Levin,?
+53,Transatlantic,Hard Rock
+54,Transatlantic,Heavy Metal
+55,Transatlantic,Neo-Prog
+56,Transatlantic,Progressive Metal
+57,Transatlantic,Album Rock
+58,Médéric Collignon / Mederic Collignon / Le Jus De Bocse,?
+59,Paul Simon,Adult Contemporary
+60,Paul Simon,Contemporary Pop/Rock
+61,Paul Simon,Folk-Rock
+62,Paul Simon,Singer/Songwriter
+63,Paul Simon,Soft Rock
+64,Paul Simon,Worldbeat
+65,Paul Simon,Album Rock
+66,Paul Simon,AM Pop
+67,Robert Palmer,Contemporary Pop/Rock
+68,Robert Palmer,Adult Contemporary
+69,Robert Palmer,Blue-Eyed Soul
+70,Robert Palmer,Disco
+71,Robert Palmer,Soul
+72,Robert Palmer,Dance-Rock
+73,Robert Palmer,Soft Rock
+74,Robert Palmer,Album Rock
+75,Jars of Clay,Adult Alternative Pop/Rock
+76,Jars of Clay,Alternative CCM
+77,Jars of Clay,CCM
+78,Jars of Clay,Contemporary Christian
+79,Jars of Clay,Gospel
+80,Jars of Clay,Alternative/Indie Rock
+81,Nine Inch Nails,Alternative Metal
+82,Nine Inch Nails,Alternative/Indie Rock
+83,Nine Inch Nails,Industrial
+84,Nine Inch Nails,Industrial Metal
+85,Nine Inch Nails,Alternative Dance
+86,Nine Inch Nails,Alternative Pop/Rock
+87,Robert Fripp / Travis & Fripp / Theo Travis,Art Rock
+88,Robert Fripp / Travis & Fripp / Theo Travis,Experimental
+89,Robert Fripp / Travis & Fripp / Theo Travis,Prog-Rock
+90,Robert Fripp / Travis & Fripp / Theo Travis,Alternative/Indie Rock
+91,Robert Fripp / Travis & Fripp / Theo Travis,Experimental Rock
+92,Robert Fripp / Travis & Fripp / Theo Travis,Post-Rock
+93,Robert Fripp / Travis & Fripp / Theo Travis,Experimental Electronic
+94,Ned Evett,?
+95,Kurt Elling,Post-Bop
+96,Kurt Elling,Vocal Jazz
+97,Kurt Elling,Contemporary Jazz Vocals
+98,Kurt Elling,Straight-Ahead Jazz
+99,Kurt Elling,Vocalese
+100,Caifanes,Rock en Español
+101,Caifanes,Latin Pop
+102,Frank Zappa,Art Rock
+103,Frank Zappa,Experimental Rock
+104,Frank Zappa,Jazz-Rock
+105,Frank Zappa,Prog-Rock
+106,Frank Zappa,Album Rock
+107,Frank Zappa,Avant-Prog
+108,Frank Zappa,Comedy Rock
+109,Frank Zappa,Progressive Jazz
+110,Frank Zappa,Hard Rock
+111,Frank Zappa,Modern Composition
+112,Herbie Hancock,Fusion
+113,Herbie Hancock,Hard Bop
+114,Herbie Hancock,Jazz-Funk
+115,Herbie Hancock,Modal Music
+116,Herbie Hancock,Post-Bop
+117,Herbie Hancock,Piano Jazz
+118,Herbie Hancock,Funk
+119,Herbie Hancock,Jazz Instrument
+120,Herbie Hancock,Electro
+121,Trent Reznor / Atticus Ross / Trent Reznor & Atticus Ross,Alternative Metal
+122,Trent Reznor / Atticus Ross / Trent Reznor & Atticus Ross,Industrial
+123,Trent Reznor / Atticus Ross / Trent Reznor & Atticus Ross,Industrial Metal
+124,Trent Reznor / Atticus Ross / Trent Reznor & Atticus Ross,Alternative Pop/Rock
+125,Trent Reznor / Atticus Ross / Trent Reznor & Atticus Ross,Experimental Ambient
+126,Trent Reznor / Atticus Ross / Trent Reznor & Atticus Ross,Soundtracks
+127,Tom Tom Club,Alternative Pop/Rock
+128,Tom Tom Club,Alternative/Indie Rock
+129,Tom Tom Club,Contemporary Pop/Rock
+130,Tom Tom Club,Dance-Rock
+131,Tom Tom Club,College Rock
+132,Tom Tom Club,New Wave
+133,Tom Tom Club,Punk/New Wave
+134,The New Czars,Alternative Pop/Rock
+135,The New Czars,Alternative/Indie Rock
+136,The New Czars,Hard Rock
+137,Mondo Marcio,Italian Rap
+138,Mondo Marcio,Hardcore Rap
+139,Mondo Marcio,European Rap
+140,Adrian Belew / Kevin Max,Album Rock
+141,Adrian Belew / Kevin Max,Art Rock
+142,Adrian Belew / Kevin Max,Experimental
+143,Adrian Belew / Kevin Max,Guitar Virtuoso
+144,Adrian Belew / Kevin Max,Jazz-Rock
+145,Adrian Belew / Kevin Max,Alternative/Indie Rock
+146,Adrian Belew / Kevin Max,Experimental Rock
+147,Adrian Belew / Kevin Max,Contemporary Pop/Rock
+148,The Crimson Jazz Trio,Modern Creative
+149,The Crimson Jazz Trio,Progressive Jazz
+150,The Crimson Jazz Trio,Art Rock
+151,The Crimson Jazz Trio,Improvisation
+152,The Crimson Jazz Trio,Prog-Rock
+153,The Crimson Jazz Trio,Fusion
+154,The Crimson Jazz Trio,Tribute Albums
+155,Sugar Beats,Contemporary Pop/Rock
+156,Sugar Beats,Sing-Alongs
+157,Mike Zirkel,?
+158,Wave Mechanics Union,?
+159,Andrew Gorczyca,?
+160,Asia,Album Rock
+161,Asia,Art Rock
+162,Asia,Prog-Rock
+163,Asia,Arena Rock
+164,Cyndi Lauper,Contemporary Pop/Rock
+165,Cyndi Lauper,New Wave
+166,Cyndi Lauper,Punk/New Wave
+167,Caifanes / De Caifanes a Jaguares / Jaguares,Rock en Español
+168,Caifanes / De Caifanes a Jaguares / Jaguares,Latin Pop
+169,Danny Morgan,?
+170,The Bears,Alternative Pop/Rock
+171,The Bears,Alternative/Indie Rock
+172,The Bears,Power Pop
+173,Sara Hickman,Alt-Country
+174,Sara Hickman,Alternative/Indie Rock
+175,Sara Hickman,Contemporary Folk
+176,Sara Hickman,Country-Folk
+177,Sara Hickman,Folk-Pop
+178,Between the Buried and Me,Heavy Metal
+179,Between the Buried and Me,Metalcore
+180,Between the Buried and Me,Alternative/Indie Rock
+181,Between the Buried and Me,Death Metal
+182,Between the Buried and Me,Progressive Metal
+183,The 4-Squares,Hardcore Punk
+184,The 4-Squares,Punk/New Wave
+185,Tony Levin,Avant-Garde Jazz
+186,Tony Levin,Prog-Rock
+187,Tony Levin,Free Jazz
+188,ProjeKct Two,?
+189,Larry Levan,Club/Dance
+190,Larry Levan,Disco
+191,Larry Levan,Garage
+192,Larry Levan,House
+193,Larry Levan,Post-Disco
+194,Joe Cocker,Blues-Rock
+195,Joe Cocker,Contemporary Pop/Rock
+196,Joe Cocker,Soft Rock
+197,Joe Cocker,Adult Contemporary
+198,Joe Cocker,AM Pop
+199,Jean-Michel Jarre,Progressive Electronic
+200,Jean-Michel Jarre,Adult Alternative
+201,Jean-Michel Jarre,Experimental Electronic
+202,Jean-Michel Jarre,Mixed Media
+203,Jean-Michel Jarre,Club/Dance
+204,Jean-Michel Jarre,Ambient
+205,Jean-Michel Jarre,Trance
+206,Ol' Dirty Bastard,East Coast Rap
+207,Ol' Dirty Bastard,Hardcore Rap
+208,Man on Fire,Prog-Rock
+209,Man on Fire,Contemporary Pop/Rock
+210,Fission Trip,Prog-Rock
+211,Porcupine Tree,Art Rock
+212,Porcupine Tree,Experimental
+213,Porcupine Tree,Experimental Rock
+214,Porcupine Tree,Neo-Prog
+215,Porcupine Tree,Alternative/Indie Rock
+216,Porcupine Tree,Ambient
+217,Porcupine Tree,Post-Rock
+218,Jaguares,Rock en Español
+219,Jaguares,Alternative Pop/Rock
+220,Jaguares,Alternative/Indie Rock
+221,Jaguares,Latin Pop
+222,Saul Zonana,Alternative/Indie Rock
+223,Saul Zonana,Indie Rock
+224,Patti Smith,New York Punk
+225,Patti Smith,Punk/New Wave
+226,Patti Smith,Album Rock
+227,Patti Smith,Hard Rock
+228,Patti Smith,Alternative Singer/Songwriter
+229,Culture,Political Reggae
+230,Culture,Roots Reggae
+231,Vitamin String Quartet,Classical Crossover
+232,Vitamin String Quartet,Chamber Music
+233,Vitamin String Quartet,Tribute Albums
+234,Training for Utopia,Alternative CCM
+235,Training for Utopia,Alternative Pop/Rock
+236,Training for Utopia,Alternative/Indie Rock
+237,Training for Utopia,Contemporary Christian
+238,Training for Utopia,Heavy Metal
+239,Frank Jordan,Blues Gospel
+240,Frank Jordan,Pre-War Country Blues
+241,Frank Jordan,Adult Alternative Pop/Rock
+242,Frank Jordan,Alternative/Indie Rock
+243,Frank Jordan,Emo
+244,Frank Jordan,Singer/Songwriter
+245,William Shatner,Celebrity
+246,William Shatner,Comedy
+247,William Shatner,Novelty
+248,William Shatner,Music Comedy
+249,William Shatner,Fantasy
+250,William Shatner,Spoken Word
+251,Rachel Z,Crossover Jazz
+252,Rachel Z,Post-Bop
+253,Nusound,Contemporary Instrumental
+254,Nusound,Relaxation
+255,The Honorary Title,Alternative/Indie Rock
+256,The Honorary Title,Indie Rock
+257,The Honorary Title,Alternative Pop/Rock
+258,Harmonica Shah,Modern Electric Blues
+259,Harmonica Shah,Electric Harmonica Blues
+260,Geoff Downes / John Wetton,Progressive Electronic
+261,Geoff Downes / John Wetton,Art Rock
+262,Geoff Downes / John Wetton,Prog-Rock
+263,Ryuichi Sakamoto,Experimental
+264,Ryuichi Sakamoto,Progressive Electronic
+265,Ryuichi Sakamoto,Original Score
+266,Ryuichi Sakamoto,International Fusion
+267,Ryuichi Sakamoto,Synth Pop
+268,Ryuichi Sakamoto,Experimental Ambient
+269,Ryuichi Sakamoto,Experimental Electro
+270,Ryuichi Sakamoto,Experimental Electronic
+271,Ryuichi Sakamoto,Glitch
+272,Townes Van Zandt,Americana
+273,Townes Van Zandt,Contemporary Folk
+274,Townes Van Zandt,Country-Rock
+275,Townes Van Zandt,Progressive Country
+276,Townes Van Zandt,Singer/Songwriter
+277,Pretty Mighty Mighty,Alternative Pop/Rock
+278,Pretty Mighty Mighty,Alternative/Indie Rock
+279,Reaching Forward,Alternative/Indie Rock
+280,Reaching Forward,Punk Revival
+281,Reaching Forward,Punk/New Wave
+282,Reaching Forward,Straight-Edge
+283,The X-ecutioners,Turntablism
+284,The X-ecutioners,Underground Rap
+285,Jamie deRoy,?
+286,Tori Amos,Adult Alternative Pop/Rock
+287,Tori Amos,Alternative/Indie Rock
+288,Tori Amos,Alternative Pop/Rock
+289,Tori Amos,Contemporary Singer/Songwriter
+290,Kevin Max,CCM
+291,Kevin Max,Contemporary Christian
+292,Kevin Max,Christian Rock
+293,Kevin Max,Gospel
+294,dc Talk,Alternative CCM
+295,dc Talk,Contemporary Christian
+296,dc Talk,CCM
+297,dc Talk,Gospel
+298,dc Talk,Adult Alternative Pop/Rock
+299,dc Talk,Alternative/Indie Rock
+300,dc Talk,Christian Rap
+301,Erick Sermon,East Coast Rap
+302,Erick Sermon,Hardcore Rap
+303,Les Claypool,Funk Metal
+304,Les Claypool,Heavy Metal
+305,Les Claypool,Alternative Pop/Rock
+306,Les Claypool,Alternative/Indie Rock
+307,Les Claypool,Bluegrass
+308,Les Claypool,Progressive Bluegrass
+309,JT Money,Southern Rap
+310,JT Money,Gangsta Rap
+311,JT Money,Dirty Rap
+312,Rick Altizer,Christian Rock
+313,Rick Altizer,Contemporary Christian
+314,Rick Altizer,CCM
+315,Tim Bowness,?
+316,Laurie Anderson,Experimental
+317,Laurie Anderson,Mixed Media
+318,Laurie Anderson,Alternative/Indie Rock
+319,Laurie Anderson,Experimental Rock
+320,Béla Fleck & the Flecktones,?
+321,California Guitar Trio,Instrumental Rock
+322,California Guitar Trio,New Acoustic
+323,California Guitar Trio,Avant-Prog
+324,California Guitar Trio,Prog-Rock
+325,California Guitar Trio,Modern Electric Blues
+326,R. Stevie Moore,Alternative/Indie Rock
+327,R. Stevie Moore,Experimental Rock
+328,R. Stevie Moore,Lo-Fi
+329,R. Stevie Moore,Obscuro
+330,R. Stevie Moore,Power Pop
+331,R. Stevie Moore,Indie Rock
+332,R. Stevie Moore,Neo-Psychedelia
+333,Freddy Gardner,British Dance Bands
+334,Freddy Gardner,Chamber Music
+335,Freddy Gardner,Dance Bands
+336,Freddy Gardner,Swing
+337,Freddy Gardner,Big Band
+338,Freddy Gardner,Dixieland
+339,The Countdown Singers,Contemporary Pop/Rock
+340,The Countdown Singers,Tribute Albums
+341,Discipline,Art Rock
+342,Discipline,Prog-Rock
+343,Nicola Sirkis,?
+344,Joan Armatrading,Folk-Pop
+345,Joan Armatrading,Singer/Songwriter
+346,Joan Armatrading,Adult Alternative Pop/Rock
+347,The Irresponsibles,?
+348,ProjeKct Four,?
+349,2Pac / Outlawz,Bay Area Rap
+350,2Pac / Outlawz,Gangsta Rap
+351,2Pac / Outlawz,G-Funk
+352,2Pac / Outlawz,Hardcore Rap
+353,Mike Oldfield,Art Rock
+354,Mike Oldfield,Prog-Rock
+355,Mike Oldfield,Progressive Electronic
+356,Mike Oldfield,Classical Crossover
+357,Mike Oldfield,Neo-Classical
+358,Mike Oldfield,Avant-Garde Music
+359,Mike Oldfield,Experimental Electronic
+360,Artie Traum,Folk Jazz
+361,Artie Traum,Singer/Songwriter
+362,Joe Dolan,AM Pop
+363,Jerry Lee Lewis,Honky Tonk
+364,Jerry Lee Lewis,Rock & Roll
+365,Jerry Lee Lewis,Rockabilly
+366,Jerry Lee Lewis,Traditional Country
+367,Mack 10,Gangsta Rap
+368,Mack 10,West Coast Rap
+369,Mack 10,G-Funk
+370,DJ Clue?,East Coast Rap
+371,Monty Montgomery,?
+372,Rob Fetters,?
+373,Christopher Young,Original Score
+374,Christopher Young,Film Score
+375,Christopher Young,Soundtracks
+376,Christopher Young,Video Game Music
+377,Curd Duca,Contemporary Instrumental
+378,Curd Duca,Experimental Techno
+379,Curd Duca,IDM
+380,Curd Duca,Techno
+381,Curd Duca,Ambient Techno
+382,Curd Duca,Trip-Hop
+383,Ivano Fossati,Contemporary Pop/Rock
+384,Ivano Fossati,Italian Pop
+385,Michael Prophet,Dance-Pop
+386,Michael Prophet,Dancehall
+387,Rick Derringer,Blues-Rock
+388,Rick Derringer,Contemporary Pop/Rock
+389,Rick Derringer,Hard Rock
+390,Rick Derringer,Rock & Roll
+391,Alfonzo Hunter,Contemporary R&B
+392,Gutterball,Alternative Pop/Rock
+393,Gutterball,Alternative/Indie Rock
+394,Gutterball,Jangle Pop
+395,Vowel Movement,?
+396,Al Kooper,Rock & Roll
+397,Al Kooper,Blues-Rock
+398,Al Kooper,Singer/Songwriter
+399,Al Kooper,Psychedelic/Garage
+400,Al Kooper,Retro-Soul
+401,Al Kooper,Soul
+402,Al Kooper,American Trad Rock
+403,Al Kooper,Folk-Rock
+404,Al Kooper,Roots Rock
+405,Love Is Colder than Death,Alternative Pop/Rock
+406,Love Is Colder than Death,Alternative/Indie Rock
+407,The Elvis Brothers,Power Pop
+408,S.F.C.,Christian Rap
+409,S.F.C.,Contemporary Christian
+410,Gospel Gangstaz,Christian Rap
+411,Gospel Gangstaz,Contemporary Christian
+412,Gospel Gangstaz,Contemporary Gospel
+413,Gospel Gangstaz,Gospel
+414,WC and the Maad Circle,Hardcore Rap
+415,WC and the Maad Circle,West Coast Rap
+416,WC and the Maad Circle,Gangsta Rap
+417,Scarface,Gangsta Rap
+418,Scarface,Hardcore Rap
+419,Scarface,Southern Rap
+420,Scarface,Texas Rap
+421,Santa Sabina,Alternative Pop/Rock
+422,Santa Sabina,Alternative/Indie Rock
+423,Santa Sabina,Rock en Español
+424,Santa Sabina,Alternative Latin
+425,Santa Sabina,Contemporary Pop/Rock
+426,Raisins,Alternative Pop/Rock
+427,Raisins,Alternative/Indie Rock
+428,Raisins,Contemporary Pop/Rock
+429,Stephen Bishop,Adult Contemporary
+430,Stephen Bishop,Soft Rock
+431,Stephen Bishop,Contemporary Pop/Rock
+432,Kindred Way,?
+433,Big Daddy Kane,East Coast Rap
+434,Big Daddy Kane,Golden Age
+435,Big Daddy Kane,Hardcore Rap
+436,Big Daddy Kane,Old-School Rap
+437,Big Daddy Kane,Pop-Rap
+438,Sister Carol,Dancehall
+439,Sister Carol,Ragga
+440,Forward,Dancehall
+441,Forward,Ragga
+442,Forward,Roots Reggae
+443,Smiley Lewis,New Orleans R&B
+444,Smiley Lewis,Rock & Roll
+445,Smiley Lewis,Early R&B
+446,Smiley Lewis,New Orleans Blues
+447,Smiley Lewis,Regional Blues
+448,Smiley Lewis,Piano Blues
+449,Anathema,Doom Metal
+450,Anathema,Goth Metal
+451,Anathema,Heavy Metal
+452,Anathema,Death Metal
+453,Zimbabwe Legit,Alternative Rap
+454,Force M.D.'s,Contemporary R&B
+455,Force M.D.'s,Quiet Storm
+456,Force M.D.'s,New Jack Swing
+457,Force M.D.'s,Adult Contemporary R&B
+458,Mac Band,Contemporary R&B
+459,Mac Band,New Jack Swing
+460,Chris Cuevas,Club/Dance
+461,Funkytown Pros,?
+462,HEAL,Hardcore Rap
+463,Andrew Dice Clay,Blue Humor
+464,Andrew Dice Clay,Sketch Comedy
+465,Andrew Dice Clay,Standup Comedy
+466,Andrew Dice Clay,Comedy
+467,Jerry Harrison,Alternative/Indie Rock
+468,Jerry Harrison,New Wave
+469,Jerry Harrison,Post-Punk
+470,Jerry Harrison,Punk/New Wave
+471,Iron Christ,Heavy Metal
+472,Iron Christ,Hard Rock
+473,Scruffy the Cat,Alternative/Indie Rock
+474,Scruffy the Cat,Roots Rock
+475,Scruffy the Cat,College Rock
+476,Max Q,Alternative Pop/Rock
+477,Max Q,Alternative/Indie Rock
+478,Jody Watley,Contemporary R&B
+479,Jody Watley,Dance-Pop
+480,Jody Watley,Club/Dance
+481,Jody Watley,House
+482,Jody Watley,Post-Disco
+483,The Cucumbers,Alternative Pop/Rock
+484,The Cucumbers,Alternative/Indie Rock
+485,The Cucumbers,Adult Alternative Pop/Rock
+486,Captain Lou Albano / NRBQ,?
+487,Pia Zadora,Big Band
+488,Pia Zadora,Traditional Pop
+489,Pia Zadora,Vocal Pop
+490,Pia Zadora,AM Pop
+491,Scott Merritt,?
+492,Whitesnake,Hard Rock
+493,Whitesnake,Heavy Metal
+494,Whitesnake,Hair Metal
+495,Whitesnake,Pop-Metal
+496,Whitesnake,Arena Rock
+497,Certain General,?
+498,Peter Wolf,Album Rock
+499,Peter Wolf,Contemporary Pop/Rock
+500,Peter Wolf,Rock & Roll
+501,Steve Hillage,Prog-Rock
+502,Steve Hillage,Space Rock
+503,Steve Hillage,Ambient
+504,Steve Hillage,Ambient Techno
+505,Steve Hillage,Canterbury Scene
+506,Steve Hillage,Alternative/Indie Rock
+507,Steve Hillage,Techno
+508,Ryuichi Sakamoto / Robin Scott,Experimental
+509,Ryuichi Sakamoto / Robin Scott,Progressive Electronic
+510,Ryuichi Sakamoto / Robin Scott,Original Score
+511,Ryuichi Sakamoto / Robin Scott,International Fusion
+512,Ryuichi Sakamoto / Robin Scott,Synth Pop
+513,Ryuichi Sakamoto / Robin Scott,Experimental Ambient
+514,Ryuichi Sakamoto / Robin Scott,Experimental Electro
+515,Ryuichi Sakamoto / Robin Scott,Experimental Electronic
+516,Ryuichi Sakamoto / Robin Scott,Glitch
+517,David Byrne,Alternative Pop/Rock
+518,David Byrne,Alternative/Indie Rock
+519,David Byrne,Experimental Rock
+520,David Byrne,Worldbeat
+521,David Byrne,Ambient
+522,David Byrne,Avant-Garde Music
+523,David Byrne,Experimental
+524,David Byrne,Adult Alternative Pop/Rock
+525,The Music Emporium,Psychedelic/Garage
+526,Bill Wolfer,Fusion
+527,Debbie Reynolds,Traditional Pop
+528,Debbie Reynolds,Vocal Pop
+529,Yoga Pop Ups,?
+530,Edensong,?
+531,UniKuE,?
+532,The Mastelottos,Progressive Alternative
+533,Raphaël Haroche / Raphaël,Adult Alternative Pop/Rock
+534,Raphaël Haroche / Raphaël,Alternative/Indie Rock
+535,Raphaël Haroche / Raphaël,French Pop
+536,Raphaël Haroche / Raphaël,French Rock
+537,The Crimson Projekct,?
+538,Troy Jones,?
+539,Nonch Harpin',?
+540,Music Box Mania,?
+541,Twinkle Twinkle Little Rock Star,?
+542,Adrian Belew / Stewart Copeland / Vittorio Cosma / Mark King,Album Rock
+543,Adrian Belew / Stewart Copeland / Vittorio Cosma / Mark King,Art Rock
+544,Adrian Belew / Stewart Copeland / Vittorio Cosma / Mark King,Experimental
+545,Adrian Belew / Stewart Copeland / Vittorio Cosma / Mark King,Guitar Virtuoso
+546,Adrian Belew / Stewart Copeland / Vittorio Cosma / Mark King,Jazz-Rock
+547,Adrian Belew / Stewart Copeland / Vittorio Cosma / Mark King,Alternative/Indie Rock
+548,Adrian Belew / Stewart Copeland / Vittorio Cosma / Mark King,Experimental Rock
+549,Adrian Belew / Stewart Copeland / Vittorio Cosma / Mark King,Contemporary Pop/Rock
+550,Tim Reynolds / TR3,Adult Alternative Pop/Rock
+551,Tim Reynolds / TR3,Alternative/Indie Rock
+552,Tim Reynolds / TR3,American Trad Rock
+553,Tim Reynolds / TR3,Jam Bands
+554,Tim Reynolds / TR3,Jazz Instrument
+555,Tim Reynolds / TR3,Piano Jazz
+556,Delta Saxophone Quartet,Minimalism
+557,Delta Saxophone Quartet,Modern Composition
+558,Delta Saxophone Quartet,Neo-Classical
+559,Delta Saxophone Quartet,Post-Minimalism
+560,Delta Saxophone Quartet,Chamber Music
+561,Mia Love,?
